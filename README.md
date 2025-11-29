@@ -1,2 +1,3 @@
 # Tugas-Besar-IF-48-02-Kelompok-5
-Rancanglah multi-linked list yang memodelkan menu dan pesanan pelanggan pada suatu restoran. Resto dapat memiliki banyak menu dan setiap pelanggan dapat memesan banyak menu. Program diharapkan dapat menangani masalah pesanan pelanggan dengan baik.
+Rancanglah multi-linked list yang memodelkan Toko indoapril, produk dan hubungannya. Setiap toko memiliki banyak produk yang dipasok oleh beberapa pemasok.
+Program diharapkan dapat digunakan sebagai manajamen stok toko.
